@@ -122,5 +122,3 @@ public class CommissionEmployee {
     }
 
 }
-// dir: C:\Users\swegi\OneDrive\Desktop\CS 145 Labs
-// git: https://github.com/ASoozay/Employee-Heirarchy.git
