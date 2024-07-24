@@ -1,7 +1,5 @@
-// Andrew Sousa
+// Andrew Soozay
 // 7/12/2024
-// CS 145
-// Programming Assignment 3: Employee Hierarchy
 // BasePlusCommissionEmployeeTest.java
 
 // BasePlusCommissionEmployeeTest.java is a class that allows users to test different kinds of employee types. 
