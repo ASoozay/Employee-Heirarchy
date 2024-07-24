@@ -1,7 +1,5 @@
-// Andrew Sousa
+// Andrew Soozay
 // 7/12/2024
-// CS 145
-// Programming Assignment 3: Employee Hierarchy
 // CommissionEmployee.java
 
 // CommissionEmployee.java is a subclass of Employee, taking its first name, last name, and social security number, as well as their respective methods.
