@@ -1,7 +1,5 @@
-// Andrew Sousa
+// Andrew Soozay
 // 7/12/2024
-// CS 145
-// Programming Assignment 3: Employee Hierarchy
 // BasePlusCommissionEmployee.java
 
 // BasePlusCommissionEmployee.java is a subclass of CommissionEmployee, taking its first name, last name, social security number, gross sales, and commission rate attriubutes, as well as their respective methods.
