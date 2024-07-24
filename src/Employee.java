@@ -1,7 +1,5 @@
-// Andrew Sousa
+// Andrew Soozay
 // 7/12/2024
-// CS 145
-// Programming Assignment 3: Employee Hierarchy
 // Employee.java
 
 // Employee.java is a superclass for employee types in the program. Every exmployee has attirbutes of first name, last name, and social security number.
